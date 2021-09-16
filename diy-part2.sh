@@ -12,3 +12,6 @@
 
 # Modify default IP
 #sed -i 's/192.168.1.1/192.168.50.5/g' package/base-files/files/bin/config_generate
+ZZZ="包/精益/默认设置/文件/z-默认设置" 
+sed - i  '/ Cyxluq4wuazhjmccq / d'  $ZZZ
+sed - i  "s / Openwrt / lin007 编译在$（TZ= UTC - 8 日期"+%Y. %m.d）  [ 开放侵权 /g]  $ZZZ
